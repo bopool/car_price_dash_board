@@ -37,6 +37,7 @@ def run_app_ml() :
         print(f'{price}달러짜리 차량 구매 가능합니다.')
         print('{}달러짜리 차량 구매 가능합니다'.format(price))
         st.text(f'{price}달러짜리 차량 구매 가능합니다.')
+        
 
 
         
